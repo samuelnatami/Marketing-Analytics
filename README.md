@@ -12,6 +12,7 @@ This repository contents:
 2 datasets are used.
 1. BreadBasket_DMS.csv
 <br>This dataset is transactional data from a bakery. It is used in market basket analysis with apriori.
+<br>We got this dataset from https://www.kaggle.com/sulmansarwar/transactions-from-a-bakery
 2. new_books.csv and ratings.csv
 <br>These datasets are used for collaborative filtering, content based, and hybrid.
 <br>We got them from https://github.com/zygmuntz/goodbooks-10k
