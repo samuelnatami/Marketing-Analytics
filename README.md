@@ -4,10 +4,10 @@ Author:
 Nirta Ika Yunita & Samuel Natamihardja
 
 This repository contents: 
-1.Market Basket Analysis with Apriori 
-2.Collaborative Filtering 
-3.Content Based
-4.Hybrid
+<br>1.Market Basket Analysis with Apriori 
+<br>2.Collaborative Filtering 
+<br>3.Content Based
+<br>4.Hybrid
 
 We use 2 datasets.
 1. BreadBasket_DMS.csv
